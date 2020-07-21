@@ -45,7 +45,7 @@ The __Sorter__ interface defines two methods:
 The implementation of this interface is necessary for the function of the __Runner__ class which runs the application, and the __Tester__ class which benchmarks the algorithms.
 
 ## Documentation
-JavaDocs are supplied for the project [here]()
+JavaDocs are supplied for the project [here](https://github.com/barrymsheehan/BenchmarkSortingAlgorithms/tree/master/docs)
 
 ## Contact
 ### Barry Sheehan
